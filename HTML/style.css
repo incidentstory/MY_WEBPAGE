@@ -1,0 +1,18 @@
+div{
+    background-color: cyan;
+    border-style:solid;
+    margin: 100px 20px 80px 300px;
+    padding: 50px;
+}
+
+.p1{
+    border: 4px dotted forestgreen;
+    background-color: rgb(255, 0, 17);
+
+
+}
+.p2{
+    border: 2px solid yellowgreen;
+    background-color: rgb(0, 255, 47);
+}
+
